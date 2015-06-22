@@ -24,10 +24,28 @@ INITIALIZE -
 
 
 
+![alt tag](https://cloud.githubusercontent.com/assets/10289382/8281229/35ee2914-1903-11e5-9a57-9ca6b6337fc8.png)
+
+
+
+
+
+
+
+
+
+
 
 ![alt tag](https://cloud.githubusercontent.com/assets/10289382/8281214/1ff764d6-1903-11e5-9e65-81f6a1a3627b.png)
-![alt tag](http://url/to/img.png)
-![alt tag](http://url/to/img.png)
+
+
+
+
+
+
+
+
+![alt tag](https://cloud.githubusercontent.com/assets/10289382/8281230/38252dc2-1903-11e5-89bb-5fc493ad4ccc.png)
 
 
 
